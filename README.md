@@ -1,2 +1,2 @@
 # NMProject
-Numerical methods in finance: final poroject
+Numerical methods in finance: final project
